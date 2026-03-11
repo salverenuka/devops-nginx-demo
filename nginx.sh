@@ -9,5 +9,5 @@ sudo systemctl enable nginx
 
 echo "NGINX installed"
 
-chmod 764 ngin.sh
-
+#chmod 764 ngin.sh
+#Added minor changes
